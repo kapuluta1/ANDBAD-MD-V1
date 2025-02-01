@@ -8,7 +8,7 @@ const s = require(__dirname + "/../set");
 const more = String.fromCharCode(8206)
 const readmore = more.repeat(4001)
 
-zokou({ nomCom: "git", categorie: "General" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "sc", categorie: "General" }, async (dest, zk, commandeOptions) => {
     let { ms, repondre ,prefixe,nomAuteurMessage,mybotpic} = commandeOptions;
     let { cm } = require(__dirname + "/../framework//zokou");
     var coms = {};
@@ -34,7 +34,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-AVAILABLE REPO AND GROUPS* 
+*AVAILABLE REPO AND GROUPS* 
 ╭─────────────────
 │❒⁠⁠⁠⁠╭─────────────
 │❒⁠⁠⁠⁠│▸ *CHANNEL* 
@@ -50,7 +50,7 @@ AVAILABLE REPO AND GROUPS*
   `;
     
 let menuMsg = `
-     MADE EASY BY ANDBAD TEAMS
+     MADE EASY BY 𝚳𝚪 𝚫𝚴𝐃𝚩𝚫𝐃
 
 ❒────────────────────❒`;
 
