@@ -13,7 +13,7 @@
  
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+𝚫𝚴𝐃𝚩𝚫𝐃-MD+MADE+IN+TANZANIA+🇹🇿♥️🇹🇿" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines= 𝚫𝚴𝐃𝚩𝚫𝐃-𝚳𝐃-+𝚳𝚫𝐃𝚵+𝚰𝚴+𝚻𝚫𝚴𝚭𝚫𝚴𝚰𝚫+🇹🇿" alt="Typing SVG" /></a>
 
 
 
